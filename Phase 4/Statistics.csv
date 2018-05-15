@@ -1,0 +1,32 @@
+csvData1,csvData2,csvData3,csvData4,csvData5
+Gesture,Model,Precision,Recall,F1
+about,Decision Tree,0.46939,0.37705,0.41818
+about,SVM,0.80315,0.41803,0.54987
+about,Neural Network,0.65896,0.46721,0.54676
+and,Decision Tree,0.44776,0.43062,0.43902
+and,SVM,0.7619,0.076555,0.13913
+and,Neural Network,0.59722,0.20574,0.30605
+can,Decision Tree,0.5027,0.5082,0.50543
+can,SVM,0.74725,0.37158,0.49635
+can,Neural Network,0.61538,0.61202,0.6137
+cop,Decision Tree,0.38037,0.30542,0.3388
+cop,SVM,0.71429,0.073892,0.13393
+cop,Neural Network,0.65778,0.35845,0.46403
+deaf,Decision Tree,0.44878,0.4381,0.44337
+deaf,SVM,0.85714,0.25714,0.3956
+deaf,Neural Network,0.7,0.23333,0.35
+decide,Decision Tree,0.35714,0.33473,0.34557
+decide,SVM,0.90196,0.19247,0.31724
+decide,Neural Network,0.72093,0.25941,0.38154
+father,Decision Tree,0.52153,0.545,0.53301
+father,SVM,0.77907,0.335,0.46853
+father,Neural Network,0.6087,0.49,0.54294
+go out,Decision Tree,0.46281,0.35443,0.40143
+go out,SVM,1,0.0063291,0.012579
+go out,Neural Network,0.53333,0.10127,0.17021
+find,Decision Tree,0.50962,0.52736,0.51834
+find,SVM,0.78,0.19403,0.31076
+find,Neural Network,0.79452,0.28856,0.42336
+hearing,Decision Tree,0.50505,0.42017,0.45872
+hearing,SVM,0.88,0.27731,0.42173
+hearing,Neural Network,0.72222,0.10924,0.18978

@@ -1,0 +1,301 @@
+Group Data,Gesture,Model,Precision,Recall,F1
+DM05,about,Decision Tree,0.85714,0.75,0.8
+DM05,about,SVM,1,0.875,0.93333
+DM05,about,Neural Network,1,1,1
+DM05,and,Decision Tree,0.375,0.375,0.375
+DM05,and,SVM,NaN,0,NaN
+DM05,and,Neural Network,0,0,NaN
+DM05,can,Decision Tree,1,1,1
+DM05,can,SVM,1,1,1
+DM05,can,Neural Network,0.8,1,0.88889
+DM05,cop,Decision Tree,0.66667,0.54545,0.6
+DM05,cop,SVM,0.75,0.27273,0.4
+DM05,cop,Neural Network,NaN,0,NaN
+DM05,deaf,Decision Tree,1,0.54545,0.70588
+DM05,deaf,SVM,1,0.36364,0.53333
+DM05,deaf,Neural Network,NaN,0,NaN
+DM05,decide,Decision Tree,0.66667,0.22222,0.33333
+DM05,decide,SVM,1,0.66667,0.8
+DM05,decide,Neural Network,0.71429,0.55556,0.625
+DM05,father,Decision Tree,0.5,0.83333,0.625
+DM05,father,SVM,0.75,0.5,0.6
+DM05,father,Neural Network,0.3,0.5,0.375
+DM05,go out,Decision Tree,1,0.44444,0.61538
+DM05,go out,SVM,0.8,0.44444,0.57143
+DM05,go out,Neural Network,0,0,NaN
+DM05,find,Decision Tree,0.77778,0.77778,0.77778
+DM05,find,SVM,0.77778,0.77778,0.77778
+DM05,find,Neural Network,0.69231,1,0.81818
+DM05,hearing,Decision Tree,0.66667,1,0.8
+DM05,hearing,SVM,0.8,0.66667,0.72727
+DM05,hearing,Neural Network,0.5,1,0.66667
+DM11,about,Decision Tree,1,0.375,0.54545
+DM11,about,SVM,NaN,0,NaN
+DM11,about,Neural Network,NaN,0,NaN
+DM11,and,Decision Tree,0.85714,1,0.92308
+DM11,and,SVM,1,1,1
+DM11,and,Neural Network,1,0.66667,0.8
+DM11,can,Decision Tree,0.57143,0.44444,0.5
+DM11,can,SVM,0.5,0.11111,0.18182
+DM11,can,Neural Network,0.33333,0.22222,0.26667
+DM11,cop,Decision Tree,0.090909,0.14286,0.11111
+DM11,cop,SVM,NaN,0,NaN
+DM11,cop,Neural Network,NaN,0,NaN
+DM11,deaf,Decision Tree,0.375,0.42857,0.4
+DM11,deaf,SVM,0.66667,0.28571,0.4
+DM11,deaf,Neural Network,0.33333,0.57143,0.42105
+DM11,decide,Decision Tree,0.75,0.66667,0.70588
+DM11,decide,SVM,1,0.11111,0.2
+DM11,decide,Neural Network,0.7,0.77778,0.73684
+DM11,father,Decision Tree,0.2,0.2,0.2
+DM11,father,SVM,1,0.2,0.33333
+DM11,father,Neural Network,1,0.4,0.57143
+DM11,go out,Decision Tree,NaN,0,NaN
+DM11,go out,SVM,NaN,0,NaN
+DM11,go out,Neural Network,0,0,NaN
+DM11,find,Decision Tree,0.27273,0.5,0.35294
+DM11,find,SVM,0.5,0.16667,0.25
+DM11,find,Neural Network,0.4,0.33333,0.36364
+DM11,hearing,Decision Tree,0.5,0.6,0.54545
+DM11,hearing,SVM,NaN,0,NaN
+DM11,hearing,Neural Network,0.5,0.6,0.54545
+DM16,about,Decision Tree,0.92308,1,0.96
+DM16,about,SVM,1,0.83333,0.90909
+DM16,about,Neural Network,0.91667,0.91667,0.91667
+DM16,and,Decision Tree,0.57143,0.57143,0.57143
+DM16,and,SVM,0.75,0.42857,0.54545
+DM16,and,Neural Network,0.57143,0.57143,0.57143
+DM16,can,Decision Tree,0.81818,0.69231,0.75
+DM16,can,SVM,0.875,0.53846,0.66667
+DM16,can,Neural Network,0.88889,0.61538,0.72727
+DM16,cop,Decision Tree,0,0,NaN
+DM16,cop,SVM,0,0,NaN
+DM16,cop,Neural Network,0.44444,0.66667,0.53333
+DM16,deaf,Decision Tree,0.5,0.57143,0.53333
+DM16,deaf,SVM,0.5,0.28571,0.36364
+DM16,deaf,Neural Network,0.6,0.42857,0.5
+DM16,decide,Decision Tree,0.38889,0.875,0.53846
+DM16,decide,SVM,0.8,0.5,0.61538
+DM16,decide,Neural Network,0.4,0.5,0.44444
+DM16,father,Decision Tree,0.88889,0.8,0.84211
+DM16,father,SVM,0.5,0.1,0.16667
+DM16,father,Neural Network,0.7,0.7,0.7
+DM16,go out,Decision Tree,0.71429,0.5,0.58824
+DM16,go out,SVM,0.875,0.7,0.77778
+DM16,go out,Neural Network,1,0.8,0.88889
+DM16,find,Decision Tree,1,0.875,0.93333
+DM16,find,SVM,0.875,0.875,0.875
+DM16,find,Neural Network,0.85714,0.75,0.8
+DM16,hearing,Decision Tree,0.57143,0.8,0.66667
+DM16,hearing,SVM,1,0.1,0.18182
+DM16,hearing,Neural Network,0.4,0.4,0.4
+DM20,about,Decision Tree,1,0.75,0.85714
+DM20,about,SVM,1,0.75,0.85714
+DM20,about,Neural Network,0.63636,0.875,0.73684
+DM20,and,Decision Tree,1,1,1
+DM20,and,SVM,1,1,1
+DM20,and,Neural Network,1,1,1
+DM20,can,Decision Tree,0.5,0.33333,0.4
+DM20,can,SVM,1,0.83333,0.90909
+DM20,can,Neural Network,0.81818,0.75,0.78261
+DM20,cop,Decision Tree,0.14286,0.25,0.18182
+DM20,cop,SVM,0.4,0.5,0.44444
+DM20,cop,Neural Network,NaN,0,NaN
+DM20,deaf,Decision Tree,0.75,1,0.85714
+DM20,deaf,SVM,1,1,1
+DM20,deaf,Neural Network,0.6,0.5,0.54545
+DM20,decide,Decision Tree,0.66667,0.5,0.57143
+DM20,decide,SVM,0.77778,0.875,0.82353
+DM20,decide,Neural Network,0.63636,0.875,0.73684
+DM20,father,Decision Tree,0.66667,0.57143,0.61538
+DM20,father,SVM,0.75,0.42857,0.54545
+DM20,father,Neural Network,0.57143,0.57143,0.57143
+DM20,go out,Decision Tree,0.63636,0.7,0.66667
+DM20,go out,SVM,1,0.6,0.75
+DM20,go out,Neural Network,NaN,0,NaN
+DM20,find,Decision Tree,0.625,0.83333,0.71429
+DM20,find,SVM,NaN,0,NaN
+DM20,find,Neural Network,0.75,0.5,0.6
+DM20,hearing,Decision Tree,0.83333,1,0.90909
+DM20,hearing,SVM,0.90909,1,0.95238
+DM20,hearing,Neural Network,0,0,NaN
+DM22,about,Decision Tree,0.71429,0.625,0.66667
+DM22,about,SVM,0.66667,0.5,0.57143
+DM22,about,Neural Network,0,0,NaN
+DM22,and,Decision Tree,1,0.375,0.54545
+DM22,and,SVM,1,0.25,0.4
+DM22,and,Neural Network,0.44444,0.5,0.47059
+DM22,can,Decision Tree,0.58333,0.77778,0.66667
+DM22,can,SVM,1,0.55556,0.71429
+DM22,can,Neural Network,1,0.55556,0.71429
+DM22,cop,Decision Tree,1,0.44444,0.61538
+DM22,cop,SVM,1,0.33333,0.5
+DM22,cop,Neural Network,0.85714,0.66667,0.75
+DM22,deaf,Decision Tree,1,0.66667,0.8
+DM22,deaf,SVM,1,0.5,0.66667
+DM22,deaf,Neural Network,0.85714,1,0.92308
+DM22,decide,Decision Tree,0,0,NaN
+DM22,decide,SVM,NaN,0,NaN
+DM22,decide,Neural Network,1,0.16667,0.28571
+DM22,father,Decision Tree,0.16667,0.2,0.18182
+DM22,father,SVM,1,0.1,0.18182
+DM22,father,Neural Network,0.71429,1,0.83333
+DM22,go out,Decision Tree,0,0,NaN
+DM22,go out,SVM,NaN,0,NaN
+DM22,go out,Neural Network,NaN,0,NaN
+DM22,find,Decision Tree,0.66667,0.66667,0.66667
+DM22,find,SVM,1,0.16667,0.28571
+DM22,find,Neural Network,1,0.33333,0.5
+DM22,hearing,Decision Tree,0.71429,0.5,0.58824
+DM22,hearing,SVM,1,0.1,0.18182
+DM22,hearing,Neural Network,1,0.2,0.33333
+DM24,about,Decision Tree,0.875,0.7,0.77778
+DM24,about,SVM,1,0.9,0.94737
+DM24,about,Neural Network,1,1,1
+DM24,and,Decision Tree,0.61538,0.72727,0.66667
+DM24,and,SVM,0.85714,0.54545,0.66667
+DM24,and,Neural Network,0.64286,0.81818,0.72
+DM24,can,Decision Tree,1,0.6,0.75
+DM24,can,SVM,1,0.9,0.94737
+DM24,can,Neural Network,1,0.9,0.94737
+DM24,cop,Decision Tree,0.625,0.71429,0.66667
+DM24,cop,SVM,0.83333,0.71429,0.76923
+DM24,cop,Neural Network,0.85714,0.85714,0.85714
+DM24,deaf,Decision Tree,1,0.85714,0.92308
+DM24,deaf,SVM,1,0.85714,0.92308
+DM24,deaf,Neural Network,1,0.85714,0.92308
+DM24,decide,Decision Tree,1,1,1
+DM24,decide,SVM,1,1,1
+DM24,decide,Neural Network,1,1,1
+DM24,father,Decision Tree,0.7,1,0.82353
+DM24,father,SVM,0.77778,1,0.875
+DM24,father,Neural Network,0.58333,1,0.73684
+DM24,go out,Decision Tree,0.66667,0.75,0.70588
+DM24,go out,SVM,1,0.625,0.76923
+DM24,go out,Neural Network,0.33333,0.25,0.28571
+DM24,find,Decision Tree,1,1,1
+DM24,find,SVM,1,1,1
+DM24,find,Neural Network,1,1,1
+DM24,hearing,Decision Tree,0.8,0.88889,0.84211
+DM24,hearing,SVM,1,0.88889,0.94118
+DM24,hearing,Neural Network,0.9,1,0.94737
+DM26,about,Decision Tree,1,0.77778,0.875
+DM26,about,SVM,1,0.77778,0.875
+DM26,about,Neural Network,0.72727,0.88889,0.8
+DM26,and,Decision Tree,0.83333,1,0.90909
+DM26,and,SVM,0.83333,0.5,0.625
+DM26,and,Neural Network,0.83333,1,0.90909
+DM26,can,Decision Tree,0.4,0.44444,0.42105
+DM26,can,SVM,1,0.11111,0.2
+DM26,can,Neural Network,0.7,0.77778,0.73684
+DM26,cop,Decision Tree,0.5,0.33333,0.4
+DM26,cop,SVM,NaN,0,NaN
+DM26,cop,Neural Network,0.33333,0.33333,0.33333
+DM26,deaf,Decision Tree,0.5,0.28571,0.36364
+DM26,deaf,SVM,NaN,0,NaN
+DM26,deaf,Neural Network,0,0,NaN
+DM26,decide,Decision Tree,0.23077,0.42857,0.3
+DM26,decide,SVM,1,0.14286,0.25
+DM26,decide,Neural Network,0.33333,0.42857,0.375
+DM26,father,Decision Tree,0.33333,0.33333,0.33333
+DM26,father,SVM,1,0.16667,0.28571
+DM26,father,Neural Network,0.33333,0.16667,0.22222
+DM26,go out,Decision Tree,0.33333,0.5,0.4
+DM26,go out,SVM,NaN,0,NaN
+DM26,go out,Neural Network,1,0.5,0.66667
+DM26,find,Decision Tree,1,0.5,0.66667
+DM26,find,SVM,1,0.5,0.66667
+DM26,find,Neural Network,0.8,0.66667,0.72727
+DM26,hearing,Decision Tree,0.25,0.33333,0.28571
+DM26,hearing,SVM,NaN,0,NaN
+DM26,hearing,Neural Network,0.33333,0.16667,0.22222
+DM28,about,Decision Tree,1,0.83333,0.90909
+DM28,about,SVM,1,0.83333,0.90909
+DM28,about,Neural Network,1,0.83333,0.90909
+DM28,and,Decision Tree,1,0.72727,0.84211
+DM28,and,SVM,1,0.72727,0.84211
+DM28,and,Neural Network,1,0.72727,0.84211
+DM28,can,Decision Tree,0.9,1,0.94737
+DM28,can,SVM,1,1,1
+DM28,can,Neural Network,0.81818,1,0.9
+DM28,cop,Decision Tree,0.58333,1,0.73684
+DM28,cop,SVM,0.83333,0.71429,0.76923
+DM28,cop,Neural Network,0.29412,0.71429,0.41667
+DM28,deaf,Decision Tree,0.71429,0.625,0.66667
+DM28,deaf,SVM,1,0.625,0.76923
+DM28,deaf,Neural Network,NaN,0,NaN
+DM28,decide,Decision Tree,1,1,1
+DM28,decide,SVM,1,1,1
+DM28,decide,Neural Network,0.83333,0.83333,0.83333
+DM28,father,Decision Tree,0.76471,1,0.86667
+DM28,father,SVM,1,0.69231,0.81818
+DM28,father,Neural Network,0.86667,1,0.92857
+DM28,go out,Decision Tree,0.25,0.14286,0.18182
+DM28,go out,SVM,1,0.42857,0.6
+DM28,go out,Neural Network,0.57143,0.57143,0.57143
+DM28,find,Decision Tree,1,0.85714,0.92308
+DM28,find,SVM,1,1,1
+DM28,find,Neural Network,1,1,1
+DM28,hearing,Decision Tree,0.5,0.42857,0.46154
+DM28,hearing,SVM,1,0.57143,0.72727
+DM28,hearing,Neural Network,NaN,0,NaN
+DM32,about,Decision Tree,0.5,0.5,0.5
+DM32,about,SVM,1,0.5,0.66667
+DM32,about,Neural Network,1,0.5,0.66667
+DM32,and,Decision Tree,0.77778,0.7,0.73684
+DM32,and,SVM,1,0.2,0.33333
+DM32,and,Neural Network,0.66667,0.2,0.30769
+DM32,can,Decision Tree,0.73333,0.91667,0.81481
+DM32,can,SVM,1,0.58333,0.73684
+DM32,can,Neural Network,0.9,0.75,0.81818
+DM32,cop,Decision Tree,0.8,1,0.88889
+DM32,cop,SVM,1,1,1
+DM32,cop,Neural Network,0.8,1,0.88889
+DM32,deaf,Decision Tree,0.5,0.44444,0.47059
+DM32,deaf,SVM,1,1,1
+DM32,deaf,Neural Network,0.9,1,0.94737
+DM32,decide,Decision Tree,0.4,0.66667,0.5
+DM32,decide,SVM,1,0.66667,0.8
+DM32,decide,Neural Network,0.5,0.66667,0.57143
+DM32,father,Decision Tree,0.88889,1,0.94118
+DM32,father,SVM,0.85714,0.75,0.8
+DM32,father,Neural Network,0.77778,0.875,0.82353
+DM32,go out,Decision Tree,0.5,0.375,0.42857
+DM32,go out,SVM,1,0.875,0.93333
+DM32,go out,Neural Network,1,0.75,0.85714
+DM32,find,Decision Tree,1,1,1
+DM32,find,SVM,1,0.875,0.93333
+DM32,find,Neural Network,0.8,1,0.88889
+DM32,hearing,Decision Tree,0.625,0.71429,0.66667
+DM32,hearing,SVM,0.71429,0.71429,0.71429
+DM32,hearing,Neural Network,0.53846,1,0.7
+DM36,about,Decision Tree,1,0.57143,0.72727
+DM36,about,SVM,1,0.71429,0.83333
+DM36,about,Neural Network,1,0.85714,0.92308
+DM36,and,Decision Tree,0.47059,0.88889,0.61538
+DM36,and,SVM,1,0.77778,0.875
+DM36,and,Neural Network,0.63636,0.77778,0.7
+DM36,can,Decision Tree,0.66667,0.8,0.72727
+DM36,can,SVM,0.66667,0.8,0.72727
+DM36,can,Neural Network,1,0.8,0.88889
+DM36,cop,Decision Tree,1,1,1
+DM36,cop,SVM,1,0.77778,0.875
+DM36,cop,Neural Network,0.77778,0.77778,0.77778
+DM36,deaf,Decision Tree,0.63636,1,0.77778
+DM36,deaf,SVM,1,1,1
+DM36,deaf,Neural Network,NaN,0,NaN
+DM36,decide,Decision Tree,0.875,0.875,0.875
+DM36,decide,SVM,1,0.875,0.93333
+DM36,decide,Neural Network,0.72727,1,0.84211
+DM36,father,Decision Tree,1,1,1
+DM36,father,SVM,0.81818,1,0.9
+DM36,father,Neural Network,0.69231,1,0.81818
+DM36,go out,Decision Tree,1,0.44444,0.61538
+DM36,go out,SVM,1,0.55556,0.71429
+DM36,go out,Neural Network,0.71429,0.55556,0.625
+DM36,find,Decision Tree,1,1,1
+DM36,find,SVM,0.83333,1,0.90909
+DM36,find,Neural Network,1,1,1
+DM36,hearing,Decision Tree,1,0.71429,0.83333
+DM36,hearing,SVM,1,0.71429,0.83333
+DM36,hearing,Neural Network,1,0.71429,0.83333
