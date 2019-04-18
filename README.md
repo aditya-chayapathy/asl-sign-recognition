@@ -1,4 +1,4 @@
-# ASL Sign Recongition using SVM, Decision Trees and Neural Networks
+# ASL Sign Recognition using SVM, Decision Trees and Neural Networks
 
 In this project, we develop a computing system that can understand human gestures. In specific, we attempt to recognise ASL signs for the following words:
 1. ABOUT		https://www.signingsavvy.com/sign/ABOUT/32/1
